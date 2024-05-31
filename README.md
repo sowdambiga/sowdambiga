@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sowdambiga
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+  About me -
 - 📫 How to reach me sowdambiga17896@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 sowdambiga/sowdambiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
