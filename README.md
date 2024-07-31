@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sowdambiga
-- 🌱 I’m currently learning Data Science
+- 🌱 Jr. Data Scientist
 - 📫 How to reach me sowdambiga17896@gmail.com
 
 
